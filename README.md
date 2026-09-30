@@ -1,6 +1,6 @@
 # DataScience
 
-# Hi I'm Vanessa Espinosa Chemical Engineer from Chile specialized in Data Science, Data Analysis, and Process Improvement.
+# Hi I'm Vanessa Espinosa Chemical Engineer from Chile Chemical Engineer transitioning into Data Science, Data Analysis, and Process Improvement.
 
 ###  About Me
 
